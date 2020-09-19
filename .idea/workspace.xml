@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ae03d90-15c7-4223-a3e9-5533efef783e" name="Default Changelist" comment="">
+    <list default="true" id="4ae03d90-15c7-4223-a3e9-5533efef783e" name="Default Changelist" comment="Put in WIP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/photo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-wip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/single.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,12 @@
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -57,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600460944857</updated>
-      <workItem from="1600460946222" duration="1092000" />
+      <workItem from="1600460946222" duration="6519000" />
     </task>
     <task id="LOCAL-00001" summary="Starting new changes">
       <created>1600461175941</created>
@@ -73,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600461433264</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2nd changes">
+      <created>1600462436201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600462436201</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,16 +97,24 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting new changes" />
     <MESSAGE value="2nd changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd changes" />
+    <MESSAGE value="Put in WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Put in WIP" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="314" y="52" key="CommitChangelistDialog2" timestamp="1600461433041">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600465277013">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600461433041" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600461449571">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600465277013" />
+    <state x="2277" y="103" key="CommitChangelistDialog2" timestamp="1600472785030">
+      <screen x="1440" y="41" width="3840" height="1080" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600461449571" />
+    <state x="2277" y="103" key="CommitChangelistDialog2/0.0.1440.900/1440.41.3840.1080@1440.41.3840.1080" timestamp="1600472785030" />
+    <state x="314" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600462435948" />
+    <state x="2293" y="287" key="Vcs.Push.Dialog.v2" timestamp="1600487912959">
+      <screen x="1440" y="64" width="3840" height="1057" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600462463533" />
+    <state x="2293" y="287" key="Vcs.Push.Dialog.v2/28.0.1412.900/1440.64.3840.1057@1440.64.3840.1057" timestamp="1600472828472" />
+    <state x="2293" y="287" key="Vcs.Push.Dialog.v2/28.23.1412.877/1440.64.3840.1057@1440.64.3840.1057" timestamp="1600487912959" />
   </component>
 </project>
